@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DragAndDraw</string>
+    <string name="item_shape">Shape</string>
+    <string name="item_gallery">Gallery</string>
+    <string name="item_stroke">Stroke</string>
+    <string name="item_size">Size</string>
+    <string name="item_save">Save</string>
+    <string name="item_triangle">Triangle</string>
+    <string name="item_clear">Clear</string>
+    <string name="item_undo">Undo</string>
+    <string name="item_color">Color</string>
+    <string name="item_square">Square</string>
+    <string name="item_circle">Circle</string>
+    <string name="item_star">Star</string>
+    <string name="item_back">Back</string>
+    <string name="dialog_clear">
+Are you sure?</string>
+    <string name="dialog_save_title">"Save drawing"</string>
+    <string name="dialog_save_message">"Save drawing to device Gallery?"</string>
+    <string name="dialog_size_title">Choose stroke size</string>
+    <string name="toast_positive_save">"Drawing saved to Gallery!"</string>
+    <string name="toast_negative_save">"Oops! Image could not be saved."</string>
+</resources>
